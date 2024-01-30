@@ -6,3 +6,7 @@ Given the starter code for the website was not very accessable, the code has bee
  * Alt attributes on icons and images
  * Heading attributes are in sequential order
  * Added a descriptive title element
+
+## Deployment
+
+Deployed website can be found here 
